@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1729139172312,2280,HTTP Request,200,OK,Thread Group 1-3,text,true,,337704,242,10,10,https://www.tops-int.com/,160,0,118
+1729139172312,169,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,355,121,10,10,http://www.tops-int.com/,160,0,118
+1729139172484,2108,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,337349,121,10,10,https://www.tops-int.com/,1968,0,1180
+1729139172997,1919,HTTP Request,200,OK,Thread Group 1-10,text,true,,337566,242,9,9,https://www.tops-int.com/,50,0,27
+1729139172997,50,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,355,121,9,9,http://www.tops-int.com/,50,0,27
+1729139173048,1868,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,337211,121,9,9,https://www.tops-int.com/,1662,0,615
+1729139172780,2330,HTTP Request,200,OK,Thread Group 1-8,text,true,,337101,242,8,8,https://www.tops-int.com/,46,0,22
+1729139172780,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,355,121,8,8,http://www.tops-int.com/,46,0,22
+1729139172827,2283,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,336746,121,8,8,https://www.tops-int.com/,1955,0,836
+1729139172484,2887,HTTP Request,200,OK,Thread Group 1-5,text,true,,337110,242,7,7,https://www.tops-int.com/,44,0,21
+1729139172484,44,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,355,121,7,7,http://www.tops-int.com/,44,0,21
+1729139172529,2842,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,336755,121,7,7,https://www.tops-int.com/,2645,0,1134
+1729139172688,2940,HTTP Request,200,OK,Thread Group 1-7,text,true,,337176,242,6,6,https://www.tops-int.com/,52,0,27
+1729139172688,52,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,355,121,6,6,http://www.tops-int.com/,52,0,27
+1729139172741,2887,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,336821,121,6,6,https://www.tops-int.com/,2681,0,922
+1729139172890,3358,HTTP Request,200,OK,Thread Group 1-9,text,true,,337879,242,5,5,https://www.tops-int.com/,46,0,23
+1729139172890,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,355,121,5,5,http://www.tops-int.com/,46,0,23
+1729139172938,3310,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,337524,121,5,5,https://www.tops-int.com/,2924,0,725
+1729139172312,3945,HTTP Request,200,OK,Thread Group 1-2,text,true,,337603,242,4,4,https://www.tops-int.com/,160,0,118
+1729139172312,169,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,355,121,4,4,http://www.tops-int.com/,160,0,118
+1729139172484,3773,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,337248,121,4,4,https://www.tops-int.com/,3409,0,1179
+1729139172391,4167,HTTP Request,200,OK,Thread Group 1-4,text,true,,337083,242,3,3,https://www.tops-int.com/,81,0,39
+1729139172391,90,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,355,121,3,3,http://www.tops-int.com/,81,0,39
+1729139172484,4074,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,336728,121,3,3,https://www.tops-int.com/,3826,0,1186
+1729139172312,4642,HTTP Request,200,OK,Thread Group 1-1,text,true,,337332,242,2,2,https://www.tops-int.com/,160,0,118
+1729139172312,169,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,355,121,2,2,http://www.tops-int.com/,160,0,118
+1729139172484,4470,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,336977,121,2,2,https://www.tops-int.com/,4076,0,1187
+1729139172593,4449,HTTP Request,200,OK,Thread Group 1-6,text,true,,337244,242,1,1,https://www.tops-int.com/,47,0,25
+1729139172593,47,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,355,121,1,1,http://www.tops-int.com/,47,0,25
+1729139172642,4400,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,336889,121,1,1,https://www.tops-int.com/,3930,0,1023
